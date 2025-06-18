@@ -14,41 +14,41 @@ CBSE Board - XII (PCM)
 
 Percentage: 89.6%
 
-💻 Projects
+💻 Projects :
 
 📺 Netflix Clone
 
-Developed a fully responsive and visually engaging Netflix Clone.
+-Developed a fully responsive and visually engaging Netflix Clone.
 
-Implemented using HTML, CSS, JavaScript.
+-Implemented using HTML, CSS, JavaScript.
 
-Focused on seamless user interaction and intuitive navigation.
+-Focused on seamless user interaction and intuitive navigation.
 
 🛒 Full Stack E-commerce Web App (In Progress)
 
-Building a full-stack e-commerce web application using:
+-Building a full-stack e-commerce web application using:
 
-Spring Boot, JPA, Hibernate, React, Spring Security, Maven, Gradle
+-Spring Boot, JPA, Hibernate, React, Spring Security, Maven, Gradle
 
-Improved server response time by 40% and boosted user engagement by 25%.
+-Improved server response time by 40% and boosted user engagement by 25%.
 
-Implemented complete CRUD functionality for product management.
+-Implemented complete CRUD functionality for product management.
 
-Tools: Java, Spring Boot, MySQL
+-Tools: Java, Spring Boot, MySQL
 
 🛠️ Technologies & Skills
 
-Languages & Frameworks: Core Java, Spring Boot, Collections
+-Languages & Frameworks: Core Java, Spring Boot, Collections
 
-Database: MySQL
+-Database: MySQL
 
-Core Concepts: Data Structures & Algorithms, DBMS, OOPS
+-Core Concepts: Data Structures & Algorithms, DBMS, OOPS
 
-Soft Skills: Communication, Team Work, Problem Debugging, Adaptability
+-Soft Skills: Communication, Team Work, Problem Debugging, Adaptability
 
 🏆 Achievements
 
-Outstanding Aptitude Certification
+-Outstanding Aptitude Certification
 
 Awarded by GNIOT for exceptional analytical and problem-solving skills.
 
